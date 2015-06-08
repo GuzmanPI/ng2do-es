@@ -1,26 +1,27 @@
-# Angular 2 Todo App
+# Angular 2 - Ap de Lista de tareas (Todo App)
 
-Angular 2 is not packaged or ready for production... but this is a todo app with it.
+Angular 2 no está terminado o listo para produccion... pero esta es una ap de lista de tareas con el.
 
-### Installation
+### Instalación
 
 ```bash
-npm install -g gulp # Not required if you already have gulp installed globally
+npm install -g gulp # No requirido si ya tienes instalado gulp globalmente
 npm install
 gulp
 gulp serve
 ```
 
-### How the installation works
+### Como funciona la instalación
 
-The installation clones the [Angular 2 quickstart](https://github.com/angular/quickstart) which contains Angular and all of the dependencies to transpile from AtScript/TypeScript. The local .git folder for the quickstart is removed automatically.
+La instalación clona el [quickstart de Angular 2](https://github.com/angular/quickstart) el cual contiene Angular y
+todas dependenciss para el (transpile) de AtScript/TypeScript. El .git local del folder para el quickstart se elimina automáticamente.
 
 ### AngularFire?
 
-The AngularFire included in this project is not a final or working version of AngularFire for Angular 2.
+El AngularFire incluido en este projecto no es la versión final ni la versión final funcional de AngularFire para Angular 2.
 
-### I want more Angular 2 info
+### Si quieres saber más acerca de Angular 2
 
-Check out [the official Angular 2 website](https://angular.io).
+Checa [el citio oficial de Angular 2](https://angular.io).
 
-### Apache 2.0 License
+### Licencia: Apache 2.0
