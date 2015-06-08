@@ -1,4 +1,4 @@
-# Angular 2 - Ap de Lista de tareas (Todo App)
+# Angular 2 - Lista de tareas (Todo App)
 
 Angular 2 no está terminado o listo para produccion... pero esta es una ap de lista de tareas con el.
 
